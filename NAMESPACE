@@ -1,0 +1,4 @@
+
+export(LD2sided.pvals,LD2sided.tables,
+HWE2sided,HWE2sided.table,Fisher1sided)
+
